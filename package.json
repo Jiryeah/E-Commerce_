@@ -1,30 +1,27 @@
 {
-  "dependencies": {
-    "dotenv": "^16.0.0",
-    "express": "^4.17.2",
-    "mysql2": "^2.3.3",
-    "node": "^17.4.0",
-    "nodemon": "^2.0.15",
-    "sequelize": "^6.15.1"
-  },
-  "scripts": {
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
-  },
-  "name": "e-commerce",
-  "description": "## Summary",
+  "name": "e-commerce_",
   "version": "1.0.0",
+  "description": "## Summary",
   "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jiryeah/E-Commerce.git"
+    "url": "git+https://github.com/Jiryeah/E-Commerce_.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jiryeah/E-Commerce/issues"
+    "url": "https://github.com/Jiryeah/E-Commerce_/issues"
   },
-  "homepage": "https://github.com/Jiryeah/E-Commerce#readme"
+  "homepage": "https://github.com/Jiryeah/E-Commerce_#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.15.1"
+  }
 }
