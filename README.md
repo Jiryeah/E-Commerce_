@@ -26,7 +26,7 @@ Employee Tracker is a command-line application. This application will help manag
 
 ## Link to Video walkthrough
 
--
+- https://watch.screencastify.com/v/bHaYenj5xsivVFOgukbx
 
 ### Technologies Used
 
